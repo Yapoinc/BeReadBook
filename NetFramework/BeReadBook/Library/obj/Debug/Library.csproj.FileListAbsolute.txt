@@ -1,0 +1,14 @@
+D:\prog\BeReadBook\NetFramework\BeReadBook\Library\bin\Debug\Library.dll
+D:\prog\BeReadBook\NetFramework\BeReadBook\Library\bin\Debug\Library.pdb
+D:\prog\BeReadBook\NetFramework\BeReadBook\Library\bin\Debug\Model.dll
+D:\prog\BeReadBook\NetFramework\BeReadBook\Library\bin\Debug\SqlRepository.dll
+D:\prog\BeReadBook\NetFramework\BeReadBook\Library\bin\Debug\EntityFramework.dll
+D:\prog\BeReadBook\NetFramework\BeReadBook\Library\bin\Debug\Model.pdb
+D:\prog\BeReadBook\NetFramework\BeReadBook\Library\bin\Debug\SqlRepository.pdb
+D:\prog\BeReadBook\NetFramework\BeReadBook\Library\bin\Debug\SqlRepository.dll.config
+D:\prog\BeReadBook\NetFramework\BeReadBook\Library\bin\Debug\EntityFramework.xml
+D:\prog\BeReadBook\NetFramework\BeReadBook\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+D:\prog\BeReadBook\NetFramework\BeReadBook\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\prog\BeReadBook\NetFramework\BeReadBook\Library\obj\Debug\Library.csproj.CopyComplete
+D:\prog\BeReadBook\NetFramework\BeReadBook\Library\obj\Debug\Library.dll
+D:\prog\BeReadBook\NetFramework\BeReadBook\Library\obj\Debug\Library.pdb

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SqlRepository;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -10,6 +11,8 @@ namespace Core.Controllers
     {
         public ActionResult Index()
         {
+            var testData = new TestData();
+            var p1 = testData.GetData();
             return View();
         }
 

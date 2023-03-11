@@ -1,0 +1,6 @@
+D:\prog\BeReadBook\NetFramework\BeReadBook\Model\bin\Debug\Model.dll
+D:\prog\BeReadBook\NetFramework\BeReadBook\Model\bin\Debug\Model.pdb
+D:\prog\BeReadBook\NetFramework\BeReadBook\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\prog\BeReadBook\NetFramework\BeReadBook\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\prog\BeReadBook\NetFramework\BeReadBook\Model\obj\Debug\Model.dll
+D:\prog\BeReadBook\NetFramework\BeReadBook\Model\obj\Debug\Model.pdb
