@@ -12,6 +12,7 @@ namespace Core.Controllers
         public ActionResult Index()
         {
             var testData = new TestData();
+            testData.SetNewData("Bernie");
             var p1 = testData.GetData();
             return View();
         }

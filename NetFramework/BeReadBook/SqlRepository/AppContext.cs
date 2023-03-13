@@ -13,7 +13,9 @@ namespace SqlRepository
         public AppContext()
             : base("name=sqlDbBookContext")
         {
-           // this.Configuration.LazyLoadingEnabled = false;
+            Database.SetInitializer<AppContext>(null);//entity framework without migrations
+
+            // this.Configuration.LazyLoadingEnabled = false;
         }
 
         public virtual DbSet<Author> Authors { get; set; }
@@ -21,7 +23,8 @@ namespace SqlRepository
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-           
+            modelBuilder.Entity<Test>().ToTable("Test");
+
         }
     }
 }
